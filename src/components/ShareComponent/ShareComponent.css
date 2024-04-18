@@ -1,0 +1,14 @@
+.container {
+    padding: 50px;
+    background-color: white;
+    border: #01207B 2px solid;
+    border-radius: 25%;
+    width: 200px;
+    height: 200px;
+    display: block;
+    color: #01207B;
+}
+
+body{
+    background-color: white;
+}
